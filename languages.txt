@@ -5,3 +5,5 @@ scala
 ruby
 javascript
 rust
+Satya
+Warren
